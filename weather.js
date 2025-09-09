@@ -13,18 +13,18 @@ let days = [
   "Saturday",
 ];
 let months = [
-  "January",
-  "February",
+  "Jan",
+  "Feb",
   "March",
   "April",
   "May",
   "June",
   "July",
   "August",
-  "September",
-  "October",
-  "November",
-  "December",
+  "Sept",
+  "Oct",
+  "Nov",
+  "Dec",
 ];
 
 document.addEventListener("keydown", (e) => {
